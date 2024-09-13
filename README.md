@@ -1,5 +1,5 @@
 Welcome to [nijanthan arul](https://github.com/nijanthanarulofficial/) profile! <a href="https://github.com/nijanthanarulofficial/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-### I'm a...   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height=15% width=40% align="right">
+### I'm BTech IT student  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height=15% width=40% align="right">
 * Future software engineer
 * Deep Learning in software engineer
 * Demanding Perfectionist
