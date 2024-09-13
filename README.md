@@ -11,7 +11,7 @@ Welcome to [nijanthan arul](https://github.com/nijanthanarulofficial/) profile! 
 📬 How to reach me: [nijanthanarul65@gmail.com](mailto:nijanthanarul65@gmail.com)<br>
 📝 [Resume](https://github.com/nijanthanaruloffiical/RESUME/blob/main/nijanthanarulofficial.pdf)<br>
 💪 This is where I write, code and solve problems.<br><br>
- As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
+ As a IT student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
 
 
