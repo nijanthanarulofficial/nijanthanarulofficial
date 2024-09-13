@@ -1,13 +1,10 @@
 Welcome to [nijanthan arul](https://github.com/nijanthanarulofficial/) profile! <a href="https://github.com/nijanthanarulofficial/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
-### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
-
+### I'm a...   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height=15% width=40% align="right">
 * Future software engineer
 * Deep Learning in software engineer
-
 * Demanding Perfectionist
 
-🌱 I'm currently learning: Bteach IT on [LeetCode](https://leetcode.com/nijanthanarulofficial)<br>
+🌱 I'm currently learning: BTeach IT on [LeetCode](https://leetcode.com/nijanthanarulofficial)<br>
 📬 How to reach me: [nijanthanarul65@gmail.com](mailto:nijanthanarul65@gmail.com)<br>
 📝 [Resume](https://github.com/nijanthanaruloffiical/RESUME/blob/main/nijanthanarulofficial.pdf)<br>
 💪 This is where I write, code and solve problems.<br><br>
